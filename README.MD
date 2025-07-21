@@ -20,16 +20,7 @@ A fase de criação de casos de teste é fundamental no ciclo de vida do desenvo
 
 ## 📂 Estrutura do Projeto
 
-O projeto está organizado de forma simples e direta:
-Certo! Um README.md bem elaborado é crucial para o seu portfólio no GitHub, pois é a primeira coisa que as pessoas (incluindo recrutadores) veem. Ele deve explicar o propósito do projeto, as tecnologias usadas e o que ele demonstra sobre suas habilidades.
 
-Aqui está uma proposta de README.md para o seu projeto de casos de teste em Gherkin da Qazando Shop, já considerando as últimas alterações e aprimoramentos que fizemos nos cenários.
-
-Markdown
-
-
-
-## 📂 Estrutura do Projeto
 
 O projeto está organizado de forma simples e direta:
 
