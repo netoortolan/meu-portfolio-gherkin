@@ -36,7 +36,7 @@ Os casos de teste estão detalhados no arquivo `features/qazando_login.feature` 
 * **Login bem-sucedido:** Teste de autenticação com credenciais válidas.
 * **Login com e-mail inválido:** Verificação da validação do formato do e-mail.
 * **Login com senha incorreta:** Teste de credenciais válidas com senha não correspondente.
-* **Tentativa de login com campos vazios (Esquema do Cenário):** Aborda múltiplos cenários de campos obrigatórios não preenchidos (e-mail vazio, senha vazia, ambos vazios).
+* **Tentativa de login com campos vazios:** Aborda múltiplos cenários de campos obrigatórios não preenchidos (e-mail vazio, senha vazia, ambos vazios).
  
 ## 📈 Aprendizados e Próximos Passos
 
