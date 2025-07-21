@@ -27,24 +27,7 @@ Aqui está uma proposta de README.md para o seu projeto de casos de teste em Ghe
 
 Markdown
 
-# Projeto de Casos de Teste Gherkin - Tela de Login da Qazando Shop
 
-Este repositório contém um conjunto de casos de teste escritos na linguagem **Gherkin**, com foco na funcionalidade de autenticação (tela de login) da plataforma **Qazando Shop**. O objetivo deste projeto é demonstrar a habilidade em analisar requisitos, descrever comportamentos de sistema de forma clara e concisa, e aplicar os princípios da metodologia Behavior-Driven Development (BDD).
-
-## 🚀 Motivação e Propósito
-
-A fase de criação de casos de teste é fundamental no ciclo de vida do desenvolvimento de software, garantindo que o produto final atenda às expectativas dos usuários e aos requisitos de negócio. Este projeto serve como um artefato prático no meu portfólio para exibir proficiência em:
-
-* **Análise de Requisitos:** Interpretar uma interface (tela de login) e identificar diferentes cenários de uso.
-* **Design de Casos de Teste:** Criar cenários abrangentes que cobrem fluxos de sucesso e falha (testes positivos e negativos).
-* **Linguagem Gherkin:** Utilizar a sintaxe `Dado-Quando-Então` para descrever comportamentos de forma legível e colaborativa para equipes técnicas e de negócio.
-* **Behavior-Driven Development (BDD):** Aplicar uma abordagem que foca no comportamento esperado do software a partir da perspectiva do usuário.
-
-## 🛠️ Tecnologias e Ferramentas
-
-* **Gherkin:** A linguagem de domínio específico (DSL) utilizada para escrever os casos de teste.
-* **Visual Studio Code (VS Code):** Ambiente de desenvolvimento utilizado para a escrita e organização dos arquivos `.feature`.
-* **Git & GitHub:** Sistema de controle de versão para gerenciar as alterações do projeto e plataforma para hospedagem e exibição pública do portfólio.
 
 ## 📂 Estrutura do Projeto
 
