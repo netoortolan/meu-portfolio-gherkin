@@ -1,7 +1,6 @@
 Feature: Autenticação de Usuário na Qazando Shop
-Como um cliente da Qazando Shop, Eu quero  logar com minhas credenciais
-  Para acessar minhas informações e realizar compras.
-git
+Como um cliente da Qazando Shop,Eu quero  logar com minhas credenciais, para acessar minhas informações e realizar compras.
+
 @login @final_feliz
   Cenario: Login bem-sucedido com credenciais válidas
   Dado que estou na página de login da Qazando Shop
